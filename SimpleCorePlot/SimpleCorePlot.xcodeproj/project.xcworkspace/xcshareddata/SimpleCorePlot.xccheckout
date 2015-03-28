@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3264465A-40F8-46F4-8C50-2C85A121660C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SimpleCorePlot</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1D8BE1AB1949804FF1B1A7805E48057D29C34CD0</key>
+		<string>https://github.com/anhdbknws/ChartCorePlot.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SimpleCorePlot/SimpleCorePlot.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1D8BE1AB1949804FF1B1A7805E48057D29C34CD0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/anhdbknws/ChartCorePlot.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D8BE1AB1949804FF1B1A7805E48057D29C34CD0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D8BE1AB1949804FF1B1A7805E48057D29C34CD0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SimpleCorePlot</string>
+		</dict>
+	</array>
+</dict>
+</plist>
