@@ -7,6 +7,8 @@
 //
 
 #import "AppDelegate.h"
+#import "CorePlot-CocoaTouch.h"
+#import "SPBarChartViewController.h"
 
 @interface AppDelegate ()
 
@@ -16,7 +18,13 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    self.window.backgroundColor = [UIColor whiteColor];
+    
+    SPBarChartViewController *vc = [[SPBarChartViewController alloc] initWithNibName:NSStringFromClass([SPBarChartViewController class]) bundle:nil];
+    UINavigationController *navi = [[UINavigationController alloc] initWithRootViewController:vc];
+    self.window.rootViewController = navi;
+    [self.window makeKeyAndVisible];
     return YES;
 }
 
